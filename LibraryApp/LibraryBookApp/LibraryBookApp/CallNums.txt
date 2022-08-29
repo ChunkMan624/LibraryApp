@@ -1,0 +1,630 @@
+----------------------
+000
+General
+----------------------
+100
+Philosophy & psychology
+----------------------
+200
+Religion
+----------------------
+300
+Social sciences
+----------------------
+400
+Language
+----------------------
+500
+Natural sciences & mathematics
+----------------------
+600
+Technology (Applied sciences)
+----------------------
+700
+The arts
+----------------------
+800
+Literature & rhetoric
+----------------------
+900
+Geography & history
+----------------------
+010
+Bibliography
+----------------------
+030
+General encyclopedic works
+----------------------
+060
+General organizations & museums
+----------------------
+090
+Manuscripts & rare books
+----------------------
+140
+Specific philosophical schools
+----------------------
+150
+Psychology
+----------------------
+170
+Ethics (moral philosophy)
+----------------------
+180
+Ancient, medieval, oriental philosophy
+----------------------
+210
+Natural theology
+----------------------
+250
+Christian orders & local churches
+----------------------
+270
+Christian church history
+----------------------
+290
+Other & comparative religions
+----------------------
+310
+General statistics
+----------------------
+320
+Political science
+----------------------
+350
+Public administration
+----------------------
+380
+Commerce, communications, transport
+----------------------
+420
+English & Anglo-Saxon languages
+----------------------
+450
+Italian, Romanian, Rhaeto-Romanic
+----------------------
+470
+Italic languages (Latin)
+----------------------
+480
+Hellenic languages (Classical Greek)
+----------------------
+510
+Mathematics
+----------------------
+530
+Physics
+----------------------
+550
+Earth sciences
+----------------------
+590
+Zoological sciences
+----------------------
+620
+Engineering
+----------------------
+640
+Home economics & family living
+----------------------
+670
+Manufacturing
+----------------------
+690
+Buildings
+----------------------
+710
+Civic & landscape art
+----------------------
+730
+Sculpture
+----------------------
+760
+Graphic arts (Printmaking & prints)
+----------------------
+790
+Recreational & performing arts
+----------------------
+830
+Literature of Germanic language
+----------------------
+850
+Italian, Romanian, Rhaeto-Romanic Literatures
+----------------------
+870
+Italic literatures (Latin)
+----------------------
+880
+Hellenic literatures (Classical Greek)
+----------------------
+910
+Geography & travel
+----------------------
+930
+History of the ancient world
+----------------------
+940
+General history of Europe
+----------------------
+980
+General history of South America
+----------------------
+012
+Bibliographies of individuals
+----------------------
+013
+Bibliographies of works by specific classes of authors
+----------------------
+016
+Bibliographies of works from specific subjects
+----------------------
+019
+Dictionary catalogs
+----------------------
+031
+General encyclopedic works — American
+----------------------
+033
+General encyclopedic works in other Germanic languages
+----------------------
+037
+General encyclopedic works in Slavic languages
+----------------------
+039
+General encyclopedic works in other languages
+----------------------
+063
+General organization & museology In central Europe In Germany
+----------------------
+065
+General organization & museology In Italy & adjacent territories
+----------------------
+066
+General organization & museology In Iberian Peninsula & adjacent islands
+----------------------
+068
+General organization & museology In other areas
+----------------------
+092
+Block books
+----------------------
+094
+Printed books
+----------------------
+097
+Books notable for ownership or origin
+----------------------
+098
+Prohibited works, forgeries, hoaxes
+----------------------
+142
+Critical philosophy
+----------------------
+143
+Intuitionism & Bergsonism
+----------------------
+145
+Sensationalism
+----------------------
+147
+Pantheism & related systems
+----------------------
+153
+Mental processes & intelligence
+----------------------
+156
+Comparative psychology
+----------------------
+158
+Applied psychology
+----------------------
+159
+Not assigned or no longer used
+----------------------
+171
+Systems & doctrines
+----------------------
+176
+Ethics of sex & reproduction
+----------------------
+172
+Political ethics
+----------------------
+178
+Ethics of consumption
+----------------------
+181
+Oriental philosophy
+----------------------
+185
+Aristotelian philosophy
+----------------------
+186
+Skeptic and Neoplatonic philosophies
+----------------------
+189
+Medieval Western philosophy
+----------------------
+211
+Concepts of God
+----------------------
+214
+Theodicy
+----------------------
+215
+Science & religion
+----------------------
+217
+Not assigned or no longer used
+----------------------
+253
+Pastoral office (Pastoral theology)
+----------------------
+254
+Parish government & administration
+----------------------
+255
+Religious congregations & orders
+----------------------
+259
+Activities of the local church
+----------------------
+271
+Religious orders in church history
+----------------------
+274
+Christian church in Europe
+----------------------
+276
+Christian church in Africa
+----------------------
+279
+Christian church in other areas
+----------------------
+292
+Classical (Greek & Roman) religion
+----------------------
+294
+Religions of Indic origin
+----------------------
+297
+Islam & religions originating in it
+----------------------
+299
+Other religions
+----------------------
+311
+Not assigned or no longer used
+----------------------
+315
+General statistics Of Asia
+----------------------
+317
+General statistics Of North America
+----------------------
+319
+General statistics Of other parts of the world
+----------------------
+321
+Systems of governments & states
+----------------------
+325
+International migration & colonization
+----------------------
+326
+Slavery & emancipation
+----------------------
+327
+International relations
+----------------------
+354
+Of specific central governments
+----------------------
+355
+Military science
+----------------------
+357
+Mounted forces & warfare
+----------------------
+358
+Other specialized forces & services
+----------------------
+382
+International commerce (Foreign trade)
+----------------------
+383
+Postal communication
+----------------------
+386
+Inland waterway & ferry transportation
+----------------------
+389
+Metrology & standardization
+----------------------
+422
+English etymology
+----------------------
+425
+English grammar
+----------------------
+427
+English language variations
+----------------------
+429
+Other Germanic languages
+----------------------
+451
+Italian writing system & phonology
+----------------------
+453
+Italian dictionaries
+----------------------
+455
+Italian grammar
+----------------------
+458
+Standard Italian usage
+----------------------
+472
+Classical Latin etymology & phonology
+----------------------
+473
+Classical Latin dictionaries
+----------------------
+477
+Old, Postclassical, Vulgar Latin
+----------------------
+478
+Classical Latin usage
+----------------------
+482
+Classical Greek etymology
+----------------------
+485
+Classical Greek grammar
+----------------------
+486
+Not assigned or no longer used
+----------------------
+488
+Classical Greek usage
+----------------------
+511
+General principles
+----------------------
+514
+Topology
+----------------------
+515
+Analysis
+----------------------
+519
+Probabilities & applied mathematics
+----------------------
+532
+Fluid mechanics Liquid mechanics
+----------------------
+534
+Sound & related vibrations
+----------------------
+536
+Heat
+----------------------
+539
+Modern physics
+----------------------
+552
+Petrology
+----------------------
+554
+Earth sciences of Europe
+----------------------
+556
+Earth sciences of Africa
+----------------------
+558
+Earth sciences of South America
+----------------------
+592
+Invertebrates
+----------------------
+593
+Protozoa, Echinodermata, related phyla
+----------------------
+596
+Vertebrata (Craniata, Vertebrates)
+----------------------
+598
+Aves (Birds)
+----------------------
+621
+Applied physics
+----------------------
+623
+Military & nautical engineering
+----------------------
+624
+Civil engineering
+----------------------
+628
+Sanitary & municipal engineering
+----------------------
+642
+Meals & table service
+----------------------
+645
+Household furnishings
+----------------------
+646
+Sewing, clothing, personal living
+----------------------
+648
+Housekeeping
+----------------------
+672
+Iron, steel, other iron alloys
+----------------------
+674
+Lumber processing, wood products, cork
+----------------------
+677
+Textiles
+----------------------
+678
+Elastomers & elastomer products
+----------------------
+691
+Building materials
+----------------------
+692
+Auxiliary construction practices
+----------------------
+693
+Specific materials & purposes
+----------------------
+699
+Not assigned or no longer used
+----------------------
+712
+Landscape architecture
+----------------------
+714
+Water features
+----------------------
+715
+Woody plants
+----------------------
+717
+Structures
+----------------------
+733
+Greek, Etruscan, Roman sculpture
+----------------------
+734
+Sculpture from ca. 500 to 1399
+----------------------
+736
+Carving & carvings
+----------------------
+738
+Ceramic arts
+----------------------
+762
+Not assigned or no longer used
+----------------------
+764
+Chromolithography & serigraphy
+----------------------
+766
+Mezzotinting & related processes
+----------------------
+769
+Prints
+----------------------
+791
+Public performances
+----------------------
+793
+Indoor games & amusements
+----------------------
+796
+Athletic & outdoor sports & games
+----------------------
+798
+Equestrian sports & animal racing
+----------------------
+832
+Reformation, etc.  1517-1750
+----------------------
+835
+Contemporary authors not already established in the UIUC catalog,  1940/50-
+----------------------
+837
+German-American
+----------------------
+839
+Other Germanic literatures
+----------------------
+851
+Early period to 1375
+----------------------
+854
+1585-1814
+----------------------
+856
+Works in and/or about Italian dialects
+----------------------
+858
+Romanian (including Wallachian)
+----------------------
+871
+Latin Authors
+----------------------
+872
+Collections of Latin prose or poetry
+----------------------
+875
+Medieval and modern Latin literature, 500 A.D. – date
+----------------------
+879
+Classical literature-History and criticism
+----------------------
+881
+Greek Authors
+----------------------
+882
+Collections of Greek prose or poetry
+----------------------
+885
+Modern Literature in the Ancient Greek Language
+----------------------
+889
+Literature in Medieval and Modern Greek
+----------------------
+911
+Historical geography
+----------------------
+913
+Ancient world
+----------------------
+914
+Europe
+----------------------
+917
+North America
+----------------------
+931
+History of ancient world China
+----------------------
+934
+History of ancient world India
+----------------------
+935
+History of ancient world Mesopotamia & Iranian Plateau
+----------------------
+937
+History of ancient world Italy & adjacent territories
+----------------------
+942
+General history of Europe England & Wales
+----------------------
+946
+General history of Europe Iberian Peninsula & adjacent islands
+----------------------
+948
+General history of Europe Northern Europe Scandinavia
+----------------------
+949
+General history of Europe Other parts of Europe
+----------------------
+981
+General history of South America Brazil
+----------------------
+985
+General history of South America Peru
+----------------------
+987
+General history of South America Venezuela
+----------------------
+988
+General history of South America Guiana
